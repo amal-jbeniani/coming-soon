@@ -8,4 +8,9 @@
   .bleu{
     color: rgb(8, 8, 45);
   }
-  
+  .right{
+    display: flex;
+    justify-content: flex-end;
+    font-size: 30px;
+   
+  }
